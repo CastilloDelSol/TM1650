@@ -6,7 +6,8 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-TM1650	KEYWORD1
+TM1650<TwoWire>  KEYWORD1
+TM1650<SoftwareWire>  KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
